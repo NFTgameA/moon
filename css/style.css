@@ -165,14 +165,14 @@ ol {
   background: url(../img/core-img/shape1.png) no-repeat;
 }
 .logo-moon {
-  background-image: url(../logo_moon1.png);
+  background-image: url(../img/logo.png);
   background-size: cover;
   background-repeat: no-repeat;
-  width: 310px;
+  width: 216px;
   height: 135px;
 }
 .logo-moon-footer {
-  background-image: url(../logo_moon1.png);
+  background-image: url(../img/logo.png);
   background-size: cover;
   background-repeat: no-repeat;
   width: 168px;
@@ -2765,7 +2765,7 @@ p.artficial:before {
     padding: 20px 15px;
   }
   .logo-moon {
-    width: 243px;
+    width: 168px;
     height: 96px;
   }
 }
